@@ -1,13 +1,19 @@
-# Models
+# models
+
 listed by ticker
 
-# Other
-**CRDFthesis.pdf** - thesis based off CRDF model and investment recommendation
+# biopharma.xlsx
 
-**Biopharma.xlsx** - Biotech/Pharma sector analysis (drugs, pricing, diseases, assumption comparison of models)
+sector file for all biotech & pharma stocks comparing eachother
 
-**Tech.xlsx** - Tech sector analysis (assumption comparison of models to assess stocks which will outperform)
+# tech.xlsx
 
-**Productivity.xlsx** - Macro research on GDP, AI productivity gains, Tax Rate/Corporate Profit share and market (SPY) valuations relative to them
+sector file for all tech stocks comparing eachother
 
-**Ratings.xlsx** - Investment recommendations and returns (alpha, IRR)
+# productivity.xlsx
+
+macro analysis on gdp and productivity
+
+# ratings.xlsx
+
+Best investment ideas (long/short) as of a certain date and target price
